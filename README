@@ -4,13 +4,18 @@ Github doesn't work correctly without JS-enabled,
 Github made a site which required months to implement a dark theme (that's not
 how much CSS-changing requires!),
 Github is registered in USA,
-Github is of Microsoft.
+Github is of Microsoft,
+Github is not free sofware,
+Githun is centralized.
 
 Please, don't use Github. Github != git. If you need a place to host the
 repositories consider these services:
+	* https://codeberg.org
+	* https://gitea.com/
+	* https://git.disroot.org
+	* https://sr.ht/
 	* https://repo.or.cz
 	* https://rocketgit.com
 	* your own instance of git + cgit <3
 
-Github sucks! Don't suck with it!
-
+Github fucking sucks! Don't suck with it!
