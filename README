@@ -6,16 +6,18 @@ how much CSS-changing requires!),
 Github is registered in USA,
 Github is of Microsoft,
 Github is not free sofware,
-Githun is centralized.
+Github is centralized.
+
+For a more detailed list of reasons, visit giveupgithub.org.
 
 Please, don't use Github. Github != git. If you need a place to host the
 repositories consider these services:
-	* https://codeberg.org
-	* https://gitea.com/
-	* https://git.disroot.org
-	* https://sr.ht/
-	* https://repo.or.cz
-	* https://rocketgit.com
-	* your own instance of git + cgit <3
+	* codeberg.org
+	* gitea.com
+	* git.disroot.org
+	* sr.ht
+	* repo.or.cz
+	* rocketgit.com
+	* host something on forgejo, gitea, cgit or something!
 
 Github fucking sucks! Don't suck with it!
